@@ -11,4 +11,4 @@
 ###### $ ```apt install python -y```
 ###### $ ```git clone https://github.com/DARVINGL/New```
 ###### $ ```cd New```
-###### $ ```python onlineUA.py```
+###### $ ```python onlineUA.py или python onlineRU.py```
